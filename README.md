@@ -19,6 +19,9 @@ dc
 
 para ver el avión animado en tu terminal.
 
+##  Instrucciones
+
+Vea la carpeta docs para mas informacion sobre los paquetes
 ---
 
 ¡Disfrutá el vuelo ASCII!
